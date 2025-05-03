@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Projects\\Paint\\paintApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB88E9A5-3F22-492B-90CE-DF4C80FAD36D}|paintApplication.vcxproj|E:\\Projects\\Paint\\paintApplication\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BB88E9A5-3F22-492B-90CE-DF4C80FAD36D}|paintApplication.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 190,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "E:\\Projects\\Paint\\paintApplication\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "E:\\Projects\\Paint\\paintApplication\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AQIAAMMAAAAAAAAAAAAwwCQBAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-02T01:42:04.025Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
