@@ -34,7 +34,7 @@ This project demonstrates real-time rendering, interactive GUI controls, and the
 ### Steps (Windows / Visual Studio)
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Paint.git
+   git clone https://github.com/OmarAbdelmonemSayed/Paint.git
    cd Paint
    ```
 2. Open `paintApplication.sln` in Visual Studio.  
