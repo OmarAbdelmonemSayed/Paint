@@ -1,4 +1,4 @@
-# 🎨 Paint Application
+# Paint Application
 
 A lightweight C++ drawing application built with **OpenGL**, **GLFW**, **Glad**, and **ImGui**.  
 This project demonstrates real-time rendering, interactive GUI controls, and the fundamentals of a custom paint tool.
